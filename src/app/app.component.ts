@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Ejercicio18';
+  vector = [1,2,3,4,5,6,7];
 }
